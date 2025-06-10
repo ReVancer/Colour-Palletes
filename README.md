@@ -12,4 +12,4 @@ This repository isn't anything significant, just some colour pallete samples and
 ---
 
 ### Download
-Tap or click [here](https://Google.com/404) to download.
+Tap or click [here](https://github.com/ReVancer/Colour-Palletes/releases/download/Release/Colour-Palettes.zip) to download.
